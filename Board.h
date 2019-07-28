@@ -17,6 +17,7 @@ typedef struct {
     int rows;
     int cols;
     Cell **matrix;
+    int len;
 
 
 }Board;
